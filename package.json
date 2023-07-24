@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-cli",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "eslintrc.json",
+    "index.js"
+  ],
+  "author": "renren.wang <1011420784@qq.com>",
+  "license": "ISC"
+}
